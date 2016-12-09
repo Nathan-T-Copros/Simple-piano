@@ -1,1 +1,1 @@
-This project was done by my group in circuit analysis. The circuit built acts like a piano with 8 buttons. The simulation is accessible to this link: https://circuits.io/circuits/3462735-simple-piano.
+This project was done by my group partners and I in circuit analysis. The circuit built acts like a piano with 8 buttons. The simulation is accessible to this link: https://circuits.io/circuits/3462735-simple-piano.
